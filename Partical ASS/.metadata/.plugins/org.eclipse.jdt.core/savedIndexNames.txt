@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+D:\Collage\5^th sem\Advance Java\Partical ASS\.metadata\.plugins\org.eclipse.jdt.core
+475193486.index
+834181792.index
+1865797976.index

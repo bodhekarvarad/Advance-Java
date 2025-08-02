@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Collage\5^th sem\Advance Java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1044090376.index
+1959826651.index
+1828026965.index
+2183032332.index
+2665761784.index
+408902865.index
